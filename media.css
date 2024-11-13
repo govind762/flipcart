@@ -1,0 +1,51 @@
+@media only screen and (min-width:200px) and (max-width:575px){
+.banner-mid img{
+    width: 100%;
+    height: auto;
+}
+.search-bar{
+    width: 100%;
+    height: 100%;
+}
+.electronic h2{
+    text-align: center;
+    font-size: 25px;
+    font-weight: 300;
+}
+.best h2{
+    text-align: center;
+    font-size: 25px;
+    font-weight: 300;
+}
+.row img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.row p{
+   text-align: center;
+}
+.banner-mid img{
+    height: 200px;
+    width: 200px;
+}
+.winter h2{
+    font-size: 30px;
+    font-weight: 300;
+    text-align: center;
+}
+.footer{
+    text-align: center;
+    font-size: 25px;
+    font-weight: 300;
+}
+.footer p{
+    font-size: 18px;
+}
+.button-buy button{
+    padding: 10px 10px;
+    margin: 20px;
+}
+}
+ 
